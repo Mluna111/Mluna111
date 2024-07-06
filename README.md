@@ -6,7 +6,7 @@
 
   - [WindChill Calculator Form](https://github.com/Mluna111/WindChill-Calculator-Form) & [WindChill Calculator API](https://github.com/Mluna111/WindChill-Calculator-API)
   - [Hotel Registration Web Form](https://github.com/Mluna111/Hotel-Reservations-Form)
-  - [Simple Web Form (Discount Calculator)](https://github.com/Mluna111/Discount-Calcuator)
+  - [Discount Calculator](https://github.com/Mluna111/Discount-Calcuator)
   - [Simple Web Form (PSA Survey)](https://github.com/Mluna111/PSCA-Annual-Sruvey)
 
 <h2> 🤳 Connect with me:</h2>
