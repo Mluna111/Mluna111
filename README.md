@@ -2,8 +2,14 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>C# (.NET Web Applications)</b>
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
 
+- <b>C++</b>
+
+- <b>Analysis & Timing (C++)</b>
+  - [Loop Timing Asymptotic Analysis](https://github.com/Mluna111/Timing-Loops-Asymptotic-Analysis-)
+
+- <b>C# (.NET Web Applications)</b>
   - [WindChill Calculator Form](https://github.com/Mluna111/WindChill-Calculator-Form) & [WindChill Calculator API](https://github.com/Mluna111/WindChill-Calculator-API)
   - [Hotel Registration Web Form](https://github.com/Mluna111/Hotel-Reservations-Form)
   - [Discount Calculator](https://github.com/Mluna111/Discount-Calcuator)
