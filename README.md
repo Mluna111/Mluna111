@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+<h4>These are not all my projects. I am currently in the process of adding them all along with their documentation</h4>
+
 - <b>Data Structures and Algorithms Practice</b>
   - [Traveling Salesman Problem (Dynamic Programming / C++)](https://github.com/Mluna111/Traveling-Salesman-Problem-Dynamic-Programming-)
   - [Train Problem (Divide & Conquer / C++)](https://github.com/Mluna111/Train-Problem-Divide-and-Conquer)
