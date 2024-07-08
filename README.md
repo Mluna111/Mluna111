@@ -10,6 +10,7 @@
   - [Closest Points in Data Set (Divide & Conquer / C++)](https://github.com/Mluna111/Closest-Points-Devide-and-Conquer-)
   - [Loop Timing Asymptotic Analysis (C++)](https://github.com/Mluna111/Timing-Loops-Asymptotic-Analysis-)
   - [MergeSort (C++)](https://github.com/Mluna111/MergeSort)
+  - [MergeSort & BubbleSort Animation (Python)](https://github.com/Mluna111/Sorting-Algorithms-Animated)
 
 - <b>C# (.NET Web Applications)</b>
   - [WindChill Calculator Form](https://github.com/Mluna111/WindChill-Calculator-Form) & [WindChill Calculator API](https://github.com/Mluna111/WindChill-Calculator-API)
