@@ -9,8 +9,6 @@
   - [Train Problem (Divide & Conquer / C++)](https://github.com/Mluna111/Train-Problem-Divide-and-Conquer)
   - [Closest Points in Data Set (Divide & Conquer / C++)](https://github.com/Mluna111/Closest-Points-Devide-and-Conquer-)
   - [Loop Timing Asymptotic Analysis (C++)](https://github.com/Mluna111/Timing-Loops-Asymptotic-Analysis-)
-- <b>C++</b>
-
 
 - <b>C# (.NET Web Applications)</b>
   - [WindChill Calculator Form](https://github.com/Mluna111/WindChill-Calculator-Form) & [WindChill Calculator API](https://github.com/Mluna111/WindChill-Calculator-API)
