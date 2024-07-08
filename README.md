@@ -7,6 +7,7 @@
 - <b>C++</b>
 
 - <b>Analysis & Timing (C++)</b>
+  - [Closest Points in Data Set (Divide & Conquer)](https://github.com/Mluna111/Closest-Points-Devide-and-Conquer-)
   - [Loop Timing Asymptotic Analysis](https://github.com/Mluna111/Timing-Loops-Asymptotic-Analysis-)
 
 - <b>C# (.NET Web Applications)</b>
