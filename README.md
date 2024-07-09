@@ -5,8 +5,8 @@
 <h4>I am currently in the process of adding all my projects along with their documentation. More to come.</h4>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - Traveling Salesman Problem: [Dynamic Programming](https://github.com/Mluna111/Traveling-Salesman-Problem-Dynamic-Programming-), [Simulated Annealing](https://github.com/Mluna111/Traveling-Salesman-Problem-Simulated-Annealing)
-  - Tile Puzzle Solver: [DFS](https://github.com/Mluna111/Tile-Puzzle-Solver-DFS), [BFS](https://github.com/Mluna111/Tile-Puzzle-Solver-BFS), & [A*](https://github.com/Mluna111/Tile-Puzzle-Solver-A-Star)
+  - Traveling Salesman Problem (C++): [Dynamic Programming](https://github.com/Mluna111/Traveling-Salesman-Problem-Dynamic-Programming-), [Simulated Annealing](https://github.com/Mluna111/Traveling-Salesman-Problem-Simulated-Annealing)
+  - Tile Puzzle Solver (C++): [DFS](https://github.com/Mluna111/Tile-Puzzle-Solver-DFS), [BFS](https://github.com/Mluna111/Tile-Puzzle-Solver-BFS), & [A*](https://github.com/Mluna111/Tile-Puzzle-Solver-A-Star)
   - [Train Problem (Divide & Conquer / C++)](https://github.com/Mluna111/Train-Problem-Divide-and-Conquer)
   - [Closest Points in Data Set (Divide & Conquer / C++)](https://github.com/Mluna111/Closest-Points-Devide-and-Conquer-)
   - [Loop Timing Asymptotic Analysis (C++)](https://github.com/Mluna111/Timing-Loops-Asymptotic-Analysis-)
