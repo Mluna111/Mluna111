@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-<h4>These are not all my projects. I am currently in the process of adding them all along with their documentation</h4>
+<h4>I am currently in the process of adding all my projects along with their documentation. More to come.</h4>
 
 - <b>Data Structures and Algorithms Practice</b>
   - Traveling Salesman Problem: [Dynamic Programming](https://github.com/Mluna111/Traveling-Salesman-Problem-Dynamic-Programming-), [Simulated Annealing](https://github.com/Mluna111/Traveling-Salesman-Problem-Simulated-Annealing)
