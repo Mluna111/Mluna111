@@ -6,7 +6,7 @@
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Traveling Salesman Problem (Dynamic Programming / C++)](https://github.com/Mluna111/Traveling-Salesman-Problem-Dynamic-Programming-)
-  - Tile Puzzle Solver: [DFS](https://github.com/Mluna111/Tile-Puzzle-Solver-DFS), [BFS](https://github.com/Mluna111/Tile-Puzzle-Solver-BFS), & A*
+  - Tile Puzzle Solver: [DFS](https://github.com/Mluna111/Tile-Puzzle-Solver-DFS), [BFS](https://github.com/Mluna111/Tile-Puzzle-Solver-BFS), & [A*](https://github.com/Mluna111/Tile-Puzzle-Solver-A-Star)
   - [Train Problem (Divide & Conquer / C++)](https://github.com/Mluna111/Train-Problem-Divide-and-Conquer)
   - [Closest Points in Data Set (Divide & Conquer / C++)](https://github.com/Mluna111/Closest-Points-Devide-and-Conquer-)
   - [Loop Timing Asymptotic Analysis (C++)](https://github.com/Mluna111/Timing-Loops-Asymptotic-Analysis-)
