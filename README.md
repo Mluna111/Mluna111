@@ -7,6 +7,7 @@
 - <b>Data Structures and Algorithms Practice</b>
   - Traveling Salesman Problem (C++): [Dynamic Programming](https://github.com/Mluna111/Traveling-Salesman-Problem-Dynamic-Programming-), [Simulated Annealing](https://github.com/Mluna111/Traveling-Salesman-Problem-Simulated-Annealing)
   - Tile Puzzle Solver (C++): [DFS](https://github.com/Mluna111/Tile-Puzzle-Solver-DFS), [BFS](https://github.com/Mluna111/Tile-Puzzle-Solver-BFS), & [A*](https://github.com/Mluna111/Tile-Puzzle-Solver-A-Star)
+  - K-Means Algorithm: [Visualization (Python)](https://github.com/Mluna111/K-Means), Threading (C++), [Image Segmentation (Python)](https://github.com/Mluna111/KMeans-ImageSegmentation)
   - [Train Problem (Divide & Conquer / C++)](https://github.com/Mluna111/Train-Problem-Divide-and-Conquer)
   - [Closest Points in Data Set (Divide & Conquer / C++)](https://github.com/Mluna111/Closest-Points-Devide-and-Conquer-)
   - [Loop Timing Asymptotic Analysis (C++)](https://github.com/Mluna111/Timing-Loops-Asymptotic-Analysis-)
