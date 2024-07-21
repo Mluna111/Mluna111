@@ -4,37 +4,67 @@
 
 <h4>I am currently in the process of adding all my projects along with their documentation. More to come.</h4>
 
-- <b>Data Structures and Algorithms Practice</b>
-  - K-Means Algorithm: [Visualization (Python)](https://github.com/Mluna111/K-Means), [Image Segmentation (Python)](https://github.com/Mluna111/KMeans-ImageSegmentation)
-  - Traveling Salesman Problem (C++): [Dynamic Programming](https://github.com/Mluna111/Traveling-Salesman-Problem-Dynamic-Programming-)
-  - [Train Problem (Divide & Conquer / C++)](https://github.com/Mluna111/Train-Problem-Divide-and-Conquer)
-  - [Closest Points in Data Set (Divide & Conquer / C++)](https://github.com/Mluna111/Closest-Points-Devide-and-Conquer-)
-  - [Loop Timing Asymptotic Analysis (C++)](https://github.com/Mluna111/Timing-Loops-Asymptotic-Analysis-)
-  - [MergeSort (C++)](https://github.com/Mluna111/MergeSort)
-  - [MergeSort & BubbleSort Animation (Python)](https://github.com/Mluna111/Sorting-Algorithms-Animated)
+<h3>Data Structures and Algorithms Practice</h3>
+<ul>
+  <li><b>K-Means Algorithm:</b></li>
+  <ul>
+    <li><a href="https://github.com/Mluna111/K-Means">Visualization (Python)</a></li>
+    <li><a href="https://github.com/Mluna111/KMeans-ImageSegmentation">Image Segmentation (Python)</a></li>
+  </ul>
+  <li><a href="https://github.com/Mluna111/Traveling-Salesman-Problem-Dynamic-Programming-"><b>Traveling Salesman Problem (C++): Dynamic Programming</b></a></li>
+  <li><a href="https://github.com/Mluna111/Train-Problem-Divide-and-Conquer"><b>Train Problem (C++): Divide & Conquer</b></a></li>
+  <li><a href="https://github.com/Mluna111/Closest-Points-Devide-and-Conquer-"><b>Closest Points in Data Set (C++): Divide & Conquer</b></a></li>
+  <li><a href="https://github.com/Mluna111/Timing-Loops-Asymptotic-Analysis-"><b>Loop Timing Asymptotic Analysis (C++)</b></a></li>
+  <li><a href="https://github.com/Mluna111/MergeSort"><b>MergeSort (C++)</b></a></li>
+  <li><b>Sorting Algorithms Animation (Python):</b></li>
+  <ul>
+    <li><a href="https://github.com/Mluna111/Sorting-Algorithms-Animated">MergeSort & BubbleSort</a></li>
+  </ul>
+</ul>
 
-- <b>C# (.NET Web Applications)</b>
-  - Resume Builder (Currently Private)
-  - Registration Form with Form Management (Currently Private)
-  - [WindChill Calculator Form](https://github.com/Mluna111/WindChill-Calculator-Form) & [WindChill Calculator API](https://github.com/Mluna111/WindChill-Calculator-API)
-  - [Hotel Registration Web Form](https://github.com/Mluna111/Hotel-Reservations-Form)
-  - [Discount Calculator](https://github.com/Mluna111/Discount-Calcuator)
-  - [Simple Web Form (PSA Survey)](https://github.com/Mluna111/PSCA-Annual-Sruvey)
-    
-- <b>Parallel Programming</b>
-  - [Parallel K-Means](https://github.com/Mluna111/KMeans-Threading),
-  - [Parallel Histogram Calculation](https://github.com/Mluna111/Parallel-Histogram-Calculation)
-  - Matrix Multiplications: [Naive](https://github.com/Mluna111/Naive-Matrix-Multiplication), [Cache Friendly](https://github.com/Mluna111/Cache-Friendly-Matrix-Multiply)
+<h3>C# (.NET Web Applications)</h3>
+<ul>
+  <li><b>Resume Builder:</b> Currently Private</li>
+  <li><b>Registration Form with Form Management:</b> Currently Private</li>
+  <li><b>WindChill Calculator:</b></li>
+  <ul>
+    <li><a href="https://github.com/Mluna111/WindChill-Calculator-Form">Form</a></li>
+    <li><a href="https://github.com/Mluna111/WindChill-Calculator-API">API</a></li>
+  </ul>
+  <li><a href="https://github.com/Mluna111/Hotel-Reservations-Form"><b>Hotel Registration Web Form</b></a></li>
+  <li><a href="https://github.com/Mluna111/Discount-Calcuator"><b>Discount Calculator</b></a></li>
+  <li><a href="https://github.com/Mluna111/PSCA-Annual-Sruvey"><b>Simple Web Form: PSA Survey</b></a></li>
+</ul>
 
-- <b>Artificial Intelligence</b>
-  - [Traveling Salesman Simulated Annealing](https://github.com/Mluna111/Traveling-Salesman-Problem-Simulated-Annealing)
-  - Tile Puzzle Solver (C++): [DFS](https://github.com/Mluna111/Tile-Puzzle-Solver-DFS), [BFS](https://github.com/Mluna111/Tile-Puzzle-Solver-BFS), & [A*](https://github.com/Mluna111/Tile-Puzzle-Solver-A-Star)
-  - [Speech Smart Assistant (Uses Anthropic API)](https://github.com/Mluna111/Speech-Smart-Assistant-Claude)
+<h3>Parallel Programming</h3>
+<ul>
+  <li><a href="https://github.com/Mluna111/KMeans-Threading"><b>Parallel K-Means (C++)</b></a></li>
+  <li><a href="https://github.com/Mluna111/Parallel-Histogram-Calculation"><b>Parallel Histogram Calculation (C++)</b></a></li>
+  <li><b>Matrix Multiplications (C++):</b></li>
+  <ul>
+    <li><a href="https://github.com/Mluna111/Naive-Matrix-Multiplication">Naive</a></li>
+    <li><a href="https://github.com/Mluna111/Cache-Friendly-Matrix-Multiply">Cache Friendly</a></li>
+  </ul>
+</ul>
 
-- <b>Programming Languages</b>
-  - [Scanner](https://github.com/Mluna111/Scanner)
-  - [Parser](https://github.com/Mluna111/Parser)
-  - [Parser and Scanner using Lex](https://github.com/Mluna111/Scanner-and-Parser)
+<h3>Artificial Intelligence</h3>
+<ul>
+  <li><a href="https://github.com/Mluna111/Traveling-Salesman-Problem-Simulated-Annealing"><b>Traveling Salesman Problem: Simulated Annealing</b></a></li>
+  <li><b>Tile Puzzle Solver (C++):</b></li>
+  <ul>
+    <li><a href="https://github.com/Mluna111/Tile-Puzzle-Solver-DFS">DFS</a></li>
+    <li><a href="https://github.com/Mluna111/Tile-Puzzle-Solver-BFS">BFS</a></li>
+    <li><a href="https://github.com/Mluna111/Tile-Puzzle-Solver-A-Star">A*</a></li>
+  </ul>
+  <li><a href="https://github.com/Mluna111/Speech-Smart-Assistant-Claude"><b>Speech Smart Assistant (Python / Anthropic API)</b></a></li>
+</ul>
+
+<h3>Programming Languages</h3>
+<ul>
+  <li><a href="https://github.com/Mluna111/Scanner"><b>Scanner</b></a></li>
+  <li><a href="https://github.com/Mluna111/Parser"><b>Parser</b></a></li>
+  <li><a href="https://github.com/Mluna111/Scanner-and-Parser"><b>Parser and Scanner using Lex</b></a></li>
+</ul>
 
 <h2> 🤳 Connect with me:</h2>
 
