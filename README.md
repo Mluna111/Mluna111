@@ -61,6 +61,8 @@ Proficient in parallel programming, artificial intelligence, and software develo
     <li><a href="https://github.com/Mluna111/Tile-Puzzle-Solver-A-Star">A*</a></li>
   </ul>
   <li><a href="https://github.com/Mluna111/Speech-Smart-Assistant-Claude"><b>Speech Smart Assistant (Python / Anthropic API)</b></a></li>
+  <li>
+    <a href="https://github.com/Mluna111/Convolution-Image-Edge-Detection"> <b>Image Object Edge Detection</b></a></li>
 </ul>
 
 <h3>Programming Languages</h3>
