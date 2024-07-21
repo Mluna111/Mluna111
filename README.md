@@ -2,7 +2,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-<h4>I am currently in the process of adding all my projects along with their documentation. More to come.</h4>
+<h5>Highly driven computer science and mathematics graduate with a strong background in programming, analytical thinking, and clear communication. Proven expertise in developing web applications, enhancing algorithm efficiency, and implementing data structures. Skilled in utilizing technical abilities in C++, Python, and web technologies to create innovative software solutions. Experienced in collaborating effectively within team settings. Dedicated to continuous learning and the application of new technologies to address real-world challenges.</h5>
+
+<!-- 
+Proficient in parallel programming, artificial intelligence, and software development best practices.
+-->
 
 <h3>Data Structures and Algorithms Practice</h3>
 <ul>
