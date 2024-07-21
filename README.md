@@ -49,7 +49,7 @@
 
 <h3>Artificial Intelligence</h3>
 <ul>
-  <li><a href="https://github.com/Mluna111/Traveling-Salesman-Problem-Simulated-Annealing"><b>Traveling Salesman Problem: Simulated Annealing</b></a></li>
+  <li><a href="https://github.com/Mluna111/Traveling-Salesman-Problem-Simulated-Annealing"><b>Traveling Salesman Problem: Simulated Annealing (C++)</b></a></li>
   <li><b>Tile Puzzle Solver (C++):</b></li>
   <ul>
     <li><a href="https://github.com/Mluna111/Tile-Puzzle-Solver-DFS">DFS</a></li>
@@ -61,9 +61,9 @@
 
 <h3>Programming Languages</h3>
 <ul>
-  <li><a href="https://github.com/Mluna111/Scanner"><b>Scanner</b></a></li>
-  <li><a href="https://github.com/Mluna111/Parser"><b>Parser</b></a></li>
-  <li><a href="https://github.com/Mluna111/Scanner-and-Parser"><b>Parser and Scanner using Lex</b></a></li>
+  <li><a href="https://github.com/Mluna111/Scanner"><b>Scanner (C)</b></a></li>
+  <li><a href="https://github.com/Mluna111/Parser"><b>Parser (C)</b></a></li>
+  <li><a href="https://github.com/Mluna111/Scanner-and-Parser"><b>Parser and Scanner using Lex (C)</b></a></li>
 </ul>
 
 <h2> 🤳 Connect with me:</h2>
