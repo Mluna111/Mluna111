@@ -32,10 +32,9 @@
   - [Speech Smart Assistant (Uses Anthropic API)](https://github.com/Mluna111/Speech-Smart-Assistant-Claude)
 
 - <b>Programming Languages</b>
-  - Scanner
-  - Parser
-  - Parser and Scanner using Lex
-
+  - [Scanner](https://github.com/Mluna111/Scanner)
+  - [Parser](https://github.com/Mluna111/Parser)
+  - [Parser and Scanner using Lex](https://github.com/Mluna111/Scanner-and-Parser)
 
 <h2> 🤳 Connect with me:</h2>
 
