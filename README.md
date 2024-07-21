@@ -14,19 +14,27 @@
   - [MergeSort & BubbleSort Animation (Python)](https://github.com/Mluna111/Sorting-Algorithms-Animated)
 
 - <b>C# (.NET Web Applications)</b>
+  - Resume Builder (Currently Private)
+  - Registration Form with Form Management (Currently Private)
   - [WindChill Calculator Form](https://github.com/Mluna111/WindChill-Calculator-Form) & [WindChill Calculator API](https://github.com/Mluna111/WindChill-Calculator-API)
   - [Hotel Registration Web Form](https://github.com/Mluna111/Hotel-Reservations-Form)
   - [Discount Calculator](https://github.com/Mluna111/Discount-Calcuator)
   - [Simple Web Form (PSA Survey)](https://github.com/Mluna111/PSCA-Annual-Sruvey)
     
 - <b>Parallel</b>
-  - [Parallel Histogram Calculation](https://github.com/Mluna111/Parallel-Histogram-Calculation)
   - [Parallel K-Means](https://github.com/Mluna111/KMeans-Threading),
+  - [Parallel Histogram Calculation](https://github.com/Mluna111/Parallel-Histogram-Calculation)
+  - Matrix Multiplications: [Naive](https://github.com/Mluna111/Naive-Matrix-Multiplication), [Cache Friendly](https://github.com/Mluna111/Cache-Friendly-Matrix-Multiply)
 
 - <b>Artificial Inteligence</b>
   - [Traveling Salesman Simulated Annealing](https://github.com/Mluna111/Traveling-Salesman-Problem-Simulated-Annealing)
   - Tile Puzzle Solver (C++): [DFS](https://github.com/Mluna111/Tile-Puzzle-Solver-DFS), [BFS](https://github.com/Mluna111/Tile-Puzzle-Solver-BFS), & [A*](https://github.com/Mluna111/Tile-Puzzle-Solver-A-Star)
   - [Speech Smart Assistant (Uses Anthropic API)](https://github.com/Mluna111/Speech-Smart-Assistant-Claude)
+
+- <b>Programming Languages</b>
+  - Scanner
+  - Parser
+  - Parser and Scanner using Lex
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -36,7 +44,6 @@
 [linkedin]: https://www.linkedin.com/in/miguel-luna-aa0987261/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
