@@ -21,12 +21,12 @@
   - [Discount Calculator](https://github.com/Mluna111/Discount-Calcuator)
   - [Simple Web Form (PSA Survey)](https://github.com/Mluna111/PSCA-Annual-Sruvey)
     
-- <b>Parallel</b>
+- <b>Parallel Programming</b>
   - [Parallel K-Means](https://github.com/Mluna111/KMeans-Threading),
   - [Parallel Histogram Calculation](https://github.com/Mluna111/Parallel-Histogram-Calculation)
   - Matrix Multiplications: [Naive](https://github.com/Mluna111/Naive-Matrix-Multiplication), [Cache Friendly](https://github.com/Mluna111/Cache-Friendly-Matrix-Multiply)
 
-- <b>Artificial Inteligence</b>
+- <b>Artificial Intelligence</b>
   - [Traveling Salesman Simulated Annealing](https://github.com/Mluna111/Traveling-Salesman-Problem-Simulated-Annealing)
   - Tile Puzzle Solver (C++): [DFS](https://github.com/Mluna111/Tile-Puzzle-Solver-DFS), [BFS](https://github.com/Mluna111/Tile-Puzzle-Solver-BFS), & [A*](https://github.com/Mluna111/Tile-Puzzle-Solver-A-Star)
   - [Speech Smart Assistant (Uses Anthropic API)](https://github.com/Mluna111/Speech-Smart-Assistant-Claude)
