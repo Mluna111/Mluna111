@@ -26,20 +26,6 @@
   </ul>
 </ul>
 
-<h3>C# (.NET Web Applications)</h3>
-<ul>
-  <li><b>Resume Builder:</b> Currently Private</li>
-  <li><b>Registration Form with Form Management:</b> Currently Private</li>
-  <li><b>WindChill Calculator:</b></li>
-  <ul>
-    <li><a href="https://github.com/Mluna111/WindChill-Calculator-Form">Form</a></li>
-    <li><a href="https://github.com/Mluna111/WindChill-Calculator-API">API</a></li>
-  </ul>
-  <li><a href="https://github.com/Mluna111/Hotel-Reservations-Form"><b>Hotel Registration Web Form</b></a></li>
-  <li><a href="https://github.com/Mluna111/Discount-Calcuator"><b>Discount Calculator</b></a></li>
-  <li><a href="https://github.com/Mluna111/PSCA-Annual-Sruvey"><b>Simple Web Form: PSA Survey</b></a></li>
-</ul>
-
 <h3>Parallel Programming</h3>
 <ul>
   <li><a href="https://github.com/Mluna111/KMeans-Threading"><b>Parallel K-Means (C++)</b></a></li>
@@ -70,6 +56,20 @@
   <li><a href="https://github.com/Mluna111/Scanner"><b>Scanner (C)</b></a></li>
   <li><a href="https://github.com/Mluna111/Parser"><b>Parser (C)</b></a></li>
   <li><a href="https://github.com/Mluna111/Scanner-and-Parser"><b>Parser and Scanner using Lex (C)</b></a></li>
+</ul>
+
+<h3>C# (.NET Web Applications)</h3>
+<ul>
+  <li><b>Resume Builder:</b> Currently Private</li>
+  <li><b>Registration Form with Form Management:</b> Currently Private</li>
+  <li><b>WindChill Calculator:</b></li>
+  <ul>
+    <li><a href="https://github.com/Mluna111/WindChill-Calculator-Form">Form</a></li>
+    <li><a href="https://github.com/Mluna111/WindChill-Calculator-API">API</a></li>
+  </ul>
+  <li><a href="https://github.com/Mluna111/Hotel-Reservations-Form"><b>Hotel Registration Web Form</b></a></li>
+  <li><a href="https://github.com/Mluna111/Discount-Calcuator"><b>Discount Calculator</b></a></li>
+  <li><a href="https://github.com/Mluna111/PSCA-Annual-Sruvey"><b>Simple Web Form: PSA Survey</b></a></li>
 </ul>
 
 <h2> 🤳 Connect with me:</h2>
